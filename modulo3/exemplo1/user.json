@@ -1,0 +1,14 @@
+[
+  {
+    "name": "João Medina",
+    "email": "joao.medina@dev.com.br",
+    "idade": 24,
+    "hobby": "Programar"
+  },
+  {
+    "name": "João Medina2",
+    "email": "joao.medina2@dev.com.br",
+    "idade": 24,
+    "hobby": "Programar"
+  }
+]

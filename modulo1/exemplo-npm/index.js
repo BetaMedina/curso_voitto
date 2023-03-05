@@ -1,0 +1,1 @@
+const nyancat = require('nyancat')

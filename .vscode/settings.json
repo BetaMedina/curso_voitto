@@ -1,0 +1,18 @@
+{
+  "serverlessConsole.services": [
+    {
+      "type": "dynamodb",
+      "title": "loja-digital-product-base-prices",
+      "tableName": "loja-digital-product-base-prices",
+      "awsProfile": "default",
+      "region": "us-east-1"
+    },
+    {
+      "type": "dynamodb",
+      "title": "loja-digital-product-promotional-prices",
+      "tableName": "loja-digital-product-promotional-prices",
+      "awsProfile": "default",
+      "region": "us-east-1"
+    }
+  ]
+}

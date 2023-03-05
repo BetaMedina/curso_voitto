@@ -1,0 +1,14 @@
+{
+  "name": "modulo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon ./src/main/index.js --ignore 'node_modules/*' "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
